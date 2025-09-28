@@ -1,4 +1,4 @@
-package com.assignment1;
+package com.assignment1.algorithms;
 
 public class MergeSort {
 
